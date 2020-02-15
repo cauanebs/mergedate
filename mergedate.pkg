@@ -1,0 +1,5 @@
+v 1.0
+d mergedate. Package to merge three variables representing the day, month and year into one datetime variable.
+d Developed by Cauane Blumenberg
+f mergedate.ado
+f mergedate.sthlp
